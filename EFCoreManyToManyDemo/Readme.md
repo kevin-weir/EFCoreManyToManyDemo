@@ -6,6 +6,7 @@ The sample is written using Entity Framework and illustrates how to implement a 
 **Nuget Packages Used**
 
 Microsoft.EntityFrameworkCore.SqlServer
+
 Microsoft.EntityFrameworkCore.Tools
 
 
