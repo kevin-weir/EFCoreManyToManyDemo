@@ -1,4 +1,4 @@
-﻿### Many To Many Table Mapping
+### Many To Many Table Mapping
 
 The sample is written using Entity Framework and illustrates how to implement a many-to-many table relationship.  The tools used were **Visual Studio 2019 16.8.4** and **.NET 5.0 Core**
 
@@ -6,7 +6,6 @@ The sample is written using Entity Framework and illustrates how to implement a 
 **Nuget Packages Used**
 
 Microsoft.EntityFrameworkCore.SqlServer
-
 Microsoft.EntityFrameworkCore.Tools
 
 
